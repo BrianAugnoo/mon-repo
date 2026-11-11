@@ -15,3 +15,6 @@ Clone this repository, remove the "README.md" file, and place the contents into 
 Ask your agent directly to install it by providing the link to this GitHub repository.
 ## Browser-based
 If you are using the model via a web browser, download this repository locally, remove the "README" file, and look for an "import skill" or "add custom skill" option. You can also ask the model if it can install a skill directly from a public GitHub repository; if so, simply provide it with the link to this repository.
+
+# Second iteration
+The coding agents will send you screenshots, or you can simply explore the project yourself within Roblox Studio. If the results meet your expectations, you can stop there. Otherwise, send the screenshots to your Roblox prompt engineer, explain what isn't working, and they will provide you with a corrective prompt.
